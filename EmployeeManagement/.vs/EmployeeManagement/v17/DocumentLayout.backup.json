@@ -1,0 +1,222 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrador\\Documents\\Gui Pessoais\\ChallangeEmployeeManagement\\EmployeeManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4B2B33-7DA0-499B-847A-D1E00552C364}|src\\EmployeeManagementApi\\EmployeeManagementApi.csproj|c:\\users\\administrador\\documents\\gui pessoais\\challangeemployeemanagement\\employeemanagement\\src\\employeemanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4B2B33-7DA0-499B-847A-D1E00552C364}|src\\EmployeeManagementApi\\EmployeeManagementApi.csproj|solutionrelative:src\\employeemanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{444D729C-AD22-42CE-A0AA-B086A2948EA4}|src\\EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj|c:\\users\\administrador\\documents\\gui pessoais\\challangeemployeemanagement\\employeemanagement\\src\\employeemanagement.infrastructure\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{444D729C-AD22-42CE-A0AA-B086A2948EA4}|src\\EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj|solutionrelative:src\\employeemanagement.infrastructure\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{152523C6-11E4-4D8E-A4E9-BCE95C49D48F}|src\\EmployeeManagement.Application\\EmployeeManagement.Application.csproj|c:\\users\\administrador\\documents\\gui pessoais\\challangeemployeemanagement\\employeemanagement\\src\\employeemanagement.application\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{152523C6-11E4-4D8E-A4E9-BCE95C49D48F}|src\\EmployeeManagement.Application\\EmployeeManagement.Application.csproj|solutionrelative:src\\employeemanagement.application\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4B2B33-7DA0-499B-847A-D1E00552C364}|src\\EmployeeManagementApi\\EmployeeManagementApi.csproj|c:\\users\\administrador\\documents\\gui pessoais\\challangeemployeemanagement\\employeemanagement\\src\\employeemanagementapi\\controller\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4B2B33-7DA0-499B-847A-D1E00552C364}|src\\EmployeeManagementApi\\EmployeeManagementApi.csproj|solutionrelative:src\\employeemanagementapi\\controller\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4B2B33-7DA0-499B-847A-D1E00552C364}|src\\EmployeeManagementApi\\EmployeeManagementApi.csproj|c:\\users\\administrador\\documents\\gui pessoais\\challangeemployeemanagement\\employeemanagement\\src\\employeemanagementapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FD4B2B33-7DA0-499B-847A-D1E00552C364}|src\\EmployeeManagementApi\\EmployeeManagementApi.csproj|solutionrelative:src\\employeemanagementapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{444D729C-AD22-42CE-A0AA-B086A2948EA4}|src\\EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj|c:\\users\\administrador\\documents\\gui pessoais\\challangeemployeemanagement\\employeemanagement\\src\\employeemanagement.infrastructure\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{444D729C-AD22-42CE-A0AA-B086A2948EA4}|src\\EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj|solutionrelative:src\\employeemanagement.infrastructure\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{444D729C-AD22-42CE-A0AA-B086A2948EA4}|src\\EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj|c:\\users\\administrador\\documents\\gui pessoais\\challangeemployeemanagement\\employeemanagement\\src\\employeemanagement.infrastructure\\migrations\\20250324054021_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{444D729C-AD22-42CE-A0AA-B086A2948EA4}|src\\EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj|solutionrelative:src\\employeemanagement.infrastructure\\migrations\\20250324054021_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 21,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\Gui Pessoais\\ChallangeEmployeeManagement\\EmployeeManagement\\src\\EmployeeManagementApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "src\\EmployeeManagementApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Administrador\\Documents\\Gui Pessoais\\ChallangeEmployeeManagement\\EmployeeManagement\\src\\EmployeeManagementApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "src\\EmployeeManagementApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-23T22:21:14.608Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\Gui Pessoais\\ChallangeEmployeeManagement\\EmployeeManagement\\src\\EmployeeManagement.Infrastructure\\Repository\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "src\\EmployeeManagement.Infrastructure\\Repository\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Documents\\Gui Pessoais\\ChallangeEmployeeManagement\\EmployeeManagement\\src\\EmployeeManagement.Infrastructure\\Repository\\EmployeeRepository.cs",
+              "RelativeToolTip": "src\\EmployeeManagement.Infrastructure\\Repository\\EmployeeRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAkwBsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T06:38:18.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\Gui Pessoais\\ChallangeEmployeeManagement\\EmployeeManagement\\src\\EmployeeManagementApi\\Controller\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "src\\EmployeeManagementApi\\Controller\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Documents\\Gui Pessoais\\ChallangeEmployeeManagement\\EmployeeManagement\\src\\EmployeeManagementApi\\Controller\\EmployeeController.cs",
+              "RelativeToolTip": "src\\EmployeeManagementApi\\Controller\\EmployeeController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwDUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T06:33:34.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\Gui Pessoais\\ChallangeEmployeeManagement\\EmployeeManagement\\src\\EmployeeManagementApi\\Program.cs",
+              "RelativeDocumentMoniker": "src\\EmployeeManagementApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Documents\\Gui Pessoais\\ChallangeEmployeeManagement\\EmployeeManagement\\src\\EmployeeManagementApi\\Program.cs",
+              "RelativeToolTip": "src\\EmployeeManagementApi\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAD4vxsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T06:21:57.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\Gui Pessoais\\ChallangeEmployeeManagement\\EmployeeManagement\\src\\EmployeeManagement.Application\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "src\\EmployeeManagement.Application\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Documents\\Gui Pessoais\\ChallangeEmployeeManagement\\EmployeeManagement\\src\\EmployeeManagement.Application\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "src\\EmployeeManagement.Application\\Services\\EmployeeService.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAYwGgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T06:17:18.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\Gui Pessoais\\ChallangeEmployeeManagement\\EmployeeManagement\\src\\EmployeeManagement.Infrastructure\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "src\\EmployeeManagement.Infrastructure\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Documents\\Gui Pessoais\\ChallangeEmployeeManagement\\EmployeeManagement\\src\\EmployeeManagement.Infrastructure\\ApplicationDbContext.cs",
+              "RelativeToolTip": "src\\EmployeeManagement.Infrastructure\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA+wCgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T06:03:10.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250324054021_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\Gui Pessoais\\ChallangeEmployeeManagement\\EmployeeManagement\\src\\EmployeeManagement.Infrastructure\\Migrations\\20250324054021_InitialMigration.cs",
+              "RelativeDocumentMoniker": "src\\EmployeeManagement.Infrastructure\\Migrations\\20250324054021_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Documents\\Gui Pessoais\\ChallangeEmployeeManagement\\EmployeeManagement\\src\\EmployeeManagement.Infrastructure\\Migrations\\20250324054021_InitialMigration.cs",
+              "RelativeToolTip": "src\\EmployeeManagement.Infrastructure\\Migrations\\20250324054021_InitialMigration.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T05:40:25.027Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1217,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

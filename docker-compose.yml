@@ -1,0 +1,62 @@
+version: '3.8'
+
+services:
+  # Backend (API .NET)
+  backend:
+    build:
+      context: ./EmployeeManagement/src
+    container_name: backend
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__DefaultConnection=Server=mysql;Port=3306;Database=employeeManagementDb;User=root;Password=root;
+    ports:
+      - "5018:5018"
+    depends_on:
+      - mysql
+    networks:
+      - app-network
+
+  # Frontend (React ou Angular)
+  frontend:
+    build:
+      context: ./EmployeeManagementFront/employee-management-front
+    container_name: frontend
+    ports:
+      - "8082:80"
+    networks:
+      - app-network
+
+  # Banco de Dados (SQL Server)
+  mysql:
+    image: mysql:8.0
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: employeeManagementDb
+    ports:
+      - "3306:3306"
+    networks:
+      - app-network
+
+  phpmyadmin:
+    image: phpmyadmin/phpmyadmin
+    ports:
+      - 8081:80
+    environment:
+      - PMA_ARBITRARY=1
+      - PMA_HOST=mysql
+      - PMA_USER=root
+      - PMA_PASSWORD=root
+    depends_on:
+      - mysql
+    networks:
+      - app-network    
+
+# Definindo uma rede para os contêineres se comunicarem
+networks:
+  app-network:
+    driver: bridge
+
+# Definindo volumes para persistência de dados do banco de dados
+volumes:
+  sql-data:
+    driver: local

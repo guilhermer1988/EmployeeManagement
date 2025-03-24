@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qz+Y3HL0A3s=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrador\\Documents\\Gui Pessoais\\ChallangeEmployeeManagement\\EmployeeManagement\\src\\EmployeeManagement.Domain\\EmployeeManagement.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrador\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512"
+  ],
+  "logs": []
+}

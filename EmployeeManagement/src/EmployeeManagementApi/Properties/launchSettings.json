@@ -1,0 +1,37 @@
+﻿{
+  "$schema": "https://json.schemastore.org/launchsettings.json",
+  "profiles": {
+    "http": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": false,
+      "applicationUrl": "http://localhost:5018",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      //"ConnectionStrings": {
+      //  "DefaultConnection": "Server=db;Database=YourDb;User Id=teste;Password=YourPassword123;TrustServerCertificate=True;Encrypt=False;"
+      //  //"DefaultConnection": "Server=(localdb)\\MSSQLLocalDB;Database=EmployeeManagementDb;Trusted_Connection=True;"
+      //}
+      "ConnectionStrings": {
+        "DefaultConnection": "Server=localhost;Port=3306;Database=employeeManagementDb;User=root;Password=root;"
+      }
+    },
+    "https": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": false,
+      "applicationUrl": "https://localhost:7241;http://localhost:5018",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "ConnectionStrings": {
+        "DefaultConnection": "Server=localhost;Port=3306;Database=employeeManagementDb;User=root;Password=root;"
+      }
+      //"ConnectionStrings": {
+      //  "DefaultConnection": "Server=db;Database=YourDb;User Id=teste;Password=YourPassword123;TrustServerCertificate=True;Encrypt=False;"
+      //  //"DefaultConnection": "Server=(localdb)\\MSSQLLocalDB;Database=EmployeeManagementDb;Trusted_Connection=True;"
+      //}
+    }
+  }
+}
